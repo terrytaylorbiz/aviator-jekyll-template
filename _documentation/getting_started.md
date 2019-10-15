@@ -5,7 +5,7 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  Welcome to terry's API.
+  Welcome to terry's API (20191015).
 
   This API document is designed for those interested in developing for our platform.
 
